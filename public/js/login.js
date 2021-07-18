@@ -9,7 +9,13 @@ console.log(type, type == '1');
     if (type == '1') {
         $('#title_name').text('Sejá Bem vindo Agricultor!');
     }else{
-        $('#title_name').text('Sejá Bem vindo Agrônomo!');
+        $('#contact').hide();
+        $('#about').hide();
+        $('#portfolio').hide();
+        $('#lsitap').hide();
+        //
+        $('#title_name').text('Sejá Bem vindo Agrônomo!');        
+        $("#lsitap_agronomo").show();
     }
     
     // disabledConsultLogin(true);

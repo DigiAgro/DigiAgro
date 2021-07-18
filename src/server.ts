@@ -1,5 +1,5 @@
 import { http } from './http';
-// import './websocket/client';
-// import './websocket/admin';
+console.log('process.env.PORT', process.env.PORT)
+const port = process.env.PORT === undefined ? '3000' : process.env.PORT
 
-http.listen(process.env.PORT, () => console.log("Server is running PORT: "+ process.env.PORT ));
+http.listen(port, () => console.log("Server is running PORT: "+ port ));
