@@ -64,7 +64,7 @@
                     <div class="collapse navbar-collapse" id="navbarResponsive">
                         <ul class="navbar-nav ms-auto">
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#lsitap">Lista de Propostas</a></li>
-                            <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Propostas</a></li>
+                            <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#portfolio">Recomendados</a></li>
                             <!-- <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#about">About</a></li> -->
                             <li class="nav-item mx-0 mx-lg-1"><a class="nav-link py-3 px-0 px-lg-3 rounded" href="#contact">Contact</a></li>
                         </ul>
@@ -91,15 +91,15 @@
                 <!-- LISTAS  -->
                 <div class="container d-flex flex-column" id="lsitap">
                     <ul class="list-group collapsible">
-                        <li class="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#portfolioModal1">
+                        <li class="list-group-item d-flex justify-content-between align-items-center bg-warning pointer" data-bs-toggle="modal" data-bs-target="#avaliado2">
                             Soja
-                            <span class="badge badge-primary badge-pill">14</span>
+                            <span class="badge badge-primary badge-pill">2</span>
                         </li>
-                        <li class="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#portfolioModal2">
+                        <li class="list-group-item d-flex justify-content-between align-items-center bg-danger pointer" data-bs-toggle="modal" data-bs-target="#avaliar2">
                             Feijão
                             <span class="badge badge-primary badge-pill">0</span>
                         </li>
-                        <li class="list-group-item d-flex justify-content-between align-items-center" data-bs-toggle="modal" data-bs-target="#portfolioModal3">
+                        <li class="list-group-item d-flex justify-content-between align-items-center bg-success pointer" data-bs-toggle="modal" data-bs-target="#aprovado2">
                             Café 
                             <span class="badge badge-primary badge-pill">Em Acompanhamento</span>
                         </li>
@@ -111,7 +111,7 @@
             <section class="page-section portfolio" id="portfolio">
                 <div class="container">
                     <!-- Propostas Section Heading-->
-                    <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Propostas</h2>
+                    <h2 class="page-section-heading text-center text-uppercase text-secondary mb-0">Produtos Mais Recomendados</h2>
                     <!-- Icon Divider-->
                     <div class="divider-custom">
                         <div class="divider-custom-line"></div>
@@ -289,38 +289,6 @@
                 </div>
             </section>
             <!-- Footer-->
-            <!-- <footer class="footer text-center">
-                <div class="container">
-                    <div class="row"> -->
-                        <!-- Footer Location-->
-                        <!-- <div class="col-lg-4 mb-5 mb-lg-0">
-                            <h4 class="text-uppercase mb-4">Location</h4>
-                            <p class="lead mb-0">
-                                2215 John Daniel Drive
-                                <br />
-                                Clark, MO 65243
-                            </p>
-                        </div> -->
-                        <!-- Footer Social Icons-->
-                        <!-- <div class="col-lg-4 mb-5 mb-lg-0">
-                            <h4 class="text-uppercase mb-4">Around the Web</h4>
-                            <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-facebook-f"></i></a>
-                            <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-twitter"></i></a>
-                            <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-linkedin-in"></i></a>
-                            <a class="btn btn-outline-light btn-social mx-1" href="#!"><i class="fab fa-fw fa-dribbble"></i></a>
-                        </div> -->
-                        <!-- Footer About Text-->
-                        <!-- <div class="col-lg-4">
-                            <h4 class="text-uppercase mb-4">About Freelancer</h4>
-                            <p class="lead mb-0">
-                                Freelance is a free to use, MIT licensed Bootstrap theme created by
-                                <a href="http://startbootstrap.com">DigiAgro</a>
-                                .
-                            </p>
-                        </div> -->
-                    <!-- </div>
-                </div>
-            </footer> -->
             <!-- Copyright Section-->
             <div class="copyright py-4 text-center text-white">
                 <div class="container"><small>Copyright &copy; Your Website 2021</small></div>
@@ -358,6 +326,129 @@
                     </div>
                 </div>
             </div>
+
+            <div class="portfolio-modal modal fade" id="avaliado2" tabindex="-1" aria-labelledby="avaliado2" aria-hidden="true">
+                <div class="modal-dialog modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                        <div class="modal-body text-center pb-5">
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <div class="col-lg-8">
+                                        <!-- Propostas Modal - Title-->
+                                        <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Proposta 1 </h2>
+                                        <!-- Icon Divider-->
+                                        <div class="divider-custom">
+                                            <div class="divider-custom-line"></div>
+                                            <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                            <div class="divider-custom-line"></div>
+                                        </div>
+                                        <!-- Propostas Modal - Image-->
+                                        <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+                                        <!-- Propostas Modal - Text-->
+                                        <h5 class="portfolio-modal-title text-secondary text-uppercase mb-0"> Maria Barbosa </h5>
+                                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                        <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
+                                            <i class="fas fa-times fa-fw"></i>
+                                           Fechar
+                                        </button>
+                                        <button class="btn btn-success" href="#!" data-bs-dismiss="modal">
+                                            <i class="fas fa-times fa-fw"></i>
+                                            Comprar
+                                        </button>
+                                    </div>
+                                    <div>
+                                <hr>
+                                </div>
+                                    <div class="col-lg-8">
+                                        <!-- Propostas Modal - Title-->
+                                        <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Proposta 2 </h2>
+                                        <!-- Icon Divider-->
+                                        <div class="divider-custom">
+                                            <div class="divider-custom-line"></div>
+                                            <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                            <div class="divider-custom-line"></div>
+                                        </div>
+                                        <!-- Propostas Modal - Image-->
+                                        <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cake.png" alt="..." />
+                                        <!-- Propostas Modal - Text-->
+                                        <h5 class="portfolio-modal-title text-secondary text-uppercase mb-0"> Joao Neto </h5>
+                                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                        <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
+                                            <i class="fas fa-times fa-fw"></i>
+                                           Fechar
+                                        </button>
+                                        <button class="btn btn-success" href="#!" data-bs-dismiss="modal">
+                                            <i class="fas fa-times fa-fw"></i>
+                                            Comprar
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+
+            <div class="portfolio-modal modal fade" id="aprovado2" tabindex="-1" aria-labelledby="aprovado2" aria-hidden="true">
+                <div class="modal-dialog modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                        <div class="modal-body text-center pb-5">
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <div class="col-lg-8">
+                                        <!-- Propostas Modal - Title-->
+                                        <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Proposta de Maria Barbosa </h2>
+                                        <!-- Icon Divider-->
+                                        <div class="divider-custom">
+                                            <div class="divider-custom-line"></div>
+                                            <div class="divider-custom-icon"><i class="fas fa-star"></i></div>
+                                            <div class="divider-custom-line"></div>
+                                        </div>
+                                        <!-- Propostas Modal - Image-->
+                                        <img class="img-fluid rounded mb-5" src="assets/img/portfolio/cabin.png" alt="..." />
+                                        <!-- Propostas Modal - Text-->
+                                        <p class="mb-4">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Mollitia neque assumenda ipsam nihil, molestias magnam, recusandae quos quis inventore quisquam velit asperiores, vitae? Reprehenderit soluta, eos quod consequuntur itaque. Nam.</p>
+                                        <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
+                                            <i class="fas fa-times fa-fw"></i>
+                                           Fechar
+                                        </button>
+                                    </div>                           
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+            <div class="portfolio-modal modal fade" id="avaliar2" tabindex="-1" aria-labelledby="avaliar2" aria-hidden="true">
+                <div class="modal-dialog modal-xl">
+                    <div class="modal-content">
+                        <div class="modal-header border-0"><button class="btn-close" type="button" data-bs-dismiss="modal" aria-label="Close"></button></div>
+                        <div class="modal-body text-center pb-5">
+                            <div class="container">
+                                <div class="row justify-content-center">
+                                    <div class="col-lg-8">
+                                        <!-- Propostas Modal - Title-->
+                                        <h2 class="portfolio-modal-title text-secondary text-uppercase mb-0">Propostas Feijão</h2>
+                                    
+                                        <!-- Propostas Modal - Text-->
+                                        <p class="mb-4">Aguardando Propostas de Agrônomos</p>
+                                        <button class="btn btn-primary" href="#!" data-bs-dismiss="modal">
+                                            <i class="fas fa-times fa-fw"></i>
+                                            Fechar
+                                        </button>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                </div>
+            </div>
+
+           
             <!-- Propostas Modal 2-->
             <div class="portfolio-modal modal fade" id="portfolioModal2" tabindex="-1" aria-labelledby="portfolioModal2" aria-hidden="true">
                 <div class="modal-dialog modal-xl">
