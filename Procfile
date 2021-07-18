@@ -1,0 +1,1 @@
+web:yarn typeorm migration:run && ts-node/src/server.ts
