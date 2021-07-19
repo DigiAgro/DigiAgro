@@ -1,4 +1,4 @@
-# [Hackatagro #12] Hackatagro 
+# [Hackatagro #12] DigiAgro 
 
 ![DigiAgro](https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/testedigiagro.gif)
 
