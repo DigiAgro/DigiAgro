@@ -55,6 +55,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [html]()
 - [Docker]()
 - [Cloud]()
+- [heroku]()
 - [Container]()
 - [SPA]()
 - [PWA]()
