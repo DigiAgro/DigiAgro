@@ -40,8 +40,6 @@ busca de patrocinadores e parceiros.
 #### ["Video falando sobre"](https://youtu.be/hpNpKjsVn38)
 #### ["DigiAgro Hospedagem"](https://digiagro.herokuapp.com/)
 
-### Screenshot
-
 ## :rose: Funcionalidades
 Este projeto tem o como alvejar as seguintes funcionalidades
 - Mercado
