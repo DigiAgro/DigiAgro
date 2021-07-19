@@ -1,4 +1,4 @@
-# [Hackatagro #12] Hackathon Hackatagro
+# [Hackatagro #12] Hackatagro 
 
 ![DigiAgro](https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/testedigiagro.gif)
 
@@ -36,8 +36,11 @@ com clientes.
 e para a rodada de investimentos seria o de aplicacao em marketing, a expansao territorial, adesao de novos clientes e
 busca de patrocinadores e parceiros.
 
-#### ["Video sobre"](https://youtu.be/hpNpKjsVn38)
-#### ["Smilin"](https://digiagro.herokuapp.com/)
+
+#### ["Video falando sobre"](https://youtu.be/hpNpKjsVn38)
+#### ["DigiAgro Hospedagem"](https://digiagro.herokuapp.com/)
+
+### Screenshot
 
 ## 🚀 Funcionalidades
 Este projeto tem o como alvejar as seguintes funcionalidades
@@ -58,3 +61,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [SPA]()
 - [PWA]()
 - [Multiplataforma]()
+
+<img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2017.06.24.png" width="900" />
+
+
+<img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.21.png" width="300" /><img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.33.png" width="300" /><img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.37.png" width="300" />
