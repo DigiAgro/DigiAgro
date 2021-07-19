@@ -65,7 +65,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
  ## :leaves: Screenshot
 <img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2017.06.24.png" width="900" />
 
-<img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.21.png" width="300" /><img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.33.png" width="300" /><img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.37.png" width="300" />
+<img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.21.png" width="250" /><img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.33.png" width="250" /><img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.37.png" width="250" />
 
 ## :seedling: Esboço Prototipo 
 <img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/prototipo.png" width="900" />
