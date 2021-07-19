@@ -6,7 +6,7 @@
 <p align="center">Projeto desenvolvido durante o  <a href="https://beon.claro.com.br/hackatagro/">Hackatagro 2021</a>. </p>
   
 
-## 📋 Sobre o projeto
+## :four_leaf_clover: Sobre o projeto
 
 O <strong>Digiagro</strong> nasceu com o intuito de poder ajudar o Agronegocio 
 com a tematica de gerenciar a eficiencia na pulverizacao de 
@@ -42,14 +42,14 @@ busca de patrocinadores e parceiros.
 
 ### Screenshot
 
-## 🚀 Funcionalidades
+## :rose: Funcionalidades
 Este projeto tem o como alvejar as seguintes funcionalidades
 - Mercado
 - B2B
 - B2C
 - Benchmarking
 
-## 🚀 Tenologias
+## :sunflower: Tenologias
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [Node.js](https://nodejs.org/en/)
 - [Javascript](https://www.javascript.com/)
@@ -62,7 +62,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - [PWA]()
 - [Multiplataforma]()
 
- ## Screenshot
+ ## :leaves: Screenshot
 <img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2017.06.24.png" width="900" />
 
 <img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.21.png" width="300" /><img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.33.png" width="300" /><img src="https://github.com/DigiAgro/DigiAgro/blob/develop/Doc/Screen%20Shot%202021-07-18%20at%2016.56.37.png" width="300" />
