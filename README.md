@@ -37,7 +37,7 @@ e para a rodada de investimentos seria o de aplicacao em marketing, a expansao t
 busca de patrocinadores e parceiros.
 
 
-#### ["Video falando sobre"](https://youtu.be/hpNpKjsVn38)
+#### ["Video falando sobre"](https://www.youtube.com/watch?v=E0KejcvAdxs)
 #### ["DigiAgro Hospedagem"](https://digiagro.herokuapp.com/)
 
 ## :rose: Funcionalidades
